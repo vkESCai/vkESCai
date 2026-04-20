@@ -70,6 +70,17 @@ I work across the entire stack: from crafting intuitive React interfaces to arch
 
 ## 🚀 Featured Projects
 
+### 📄 DocParser — Document Intelligence Pipeline
+> **Full-stack document parsing engine** that extracts structured data from PDFs and scanned images. Built with React + Vite (frontend) and FastAPI (backend), with OCR via Tesseract.
+
+**What makes it real:** Entity detection for amounts, dates, account numbers and emails; page-by-page text and table extraction; OCR confidence scoring; async FastAPI with auto-generated Swagger docs; batch processing up to 10 documents.
+
+`React` `Vite` `TailwindCSS` `FastAPI` `Python` `pdfplumber` `Tesseract OCR` `Pillow`
+
+🔗 [Frontend Repo](https://github.com/vkESCai/docparser_frontend)
+
+---
+
 ### 🏥 CareConnect — Doctor Appointment Booking System
 > **Production-grade, role-based healthcare platform** built with the MERN stack. Handles the full appointment lifecycle across three isolated user roles — Patient, Doctor, and Admin.
 
@@ -79,16 +90,6 @@ I work across the entire stack: from crafting intuitive React interfaces to arch
 
 🔗 [Live Demo](https://careconnect-frontend-5eri.onrender.com) · [Admin Panel](https://admin-care-connect-sigma.vercel.app) · [View Repo](https://github.com/vkESCai/admin_careConnect)
 
----
-
-### 📄 DocParser — Document Intelligence Pipeline
-> **Full-stack document parsing engine** that extracts structured data from PDFs and scanned images. Built with React + Vite (frontend) and FastAPI (backend), with OCR via Tesseract.
-
-**What makes it real:** Entity detection for amounts, dates, account numbers and emails; page-by-page text and table extraction; OCR confidence scoring; async FastAPI with auto-generated Swagger docs; batch processing up to 10 documents.
-
-`React` `Vite` `TailwindCSS` `FastAPI` `Python` `pdfplumber` `Tesseract OCR` `Pillow`
-
-🔗 [Frontend Repo](https://github.com/vkESCai/docparser_frontend)
 
 ---
 
