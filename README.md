@@ -77,7 +77,7 @@ I work across the entire stack: from crafting intuitive React interfaces to arch
 
 `React` `Vite` `TailwindCSS` `FastAPI` `Python` `pdfplumber` `Tesseract OCR` `Pillow`
 
-🔗  [Live Demo](https://docparser-frontend.onrender.com/)  . [Frontend Repo](https://github.com/vkESCai/docparser_frontend)
+🔗  [Live Demo](https://docparser-frontend.onrender.com/)  . [Repo](https://github.com/vkESCai/docparser_frontend)
 
 ---
 
@@ -88,7 +88,7 @@ I work across the entire stack: from crafting intuitive React interfaces to arch
 
 `React` `Node.js` `Express` `MongoDB` `JWT` `Razorpay` `Stripe` `Cloudinary` `TailwindCSS`
 
-🔗 [Live Demo](https://careconnect-frontend-5eri.onrender.com) · [Admin Panel](https://admin-care-connect-sigma.vercel.app) · [View Repo](https://github.com/vkESCai/admin_careConnect)
+🔗 [Live Demo](https://frontend-doc-h26b.onrender.com) · [Admin Panel](https://admin-careconnect.onrender.com) · [View Repo](https://github.com/vkESCai/admin_careConnect)
 
 
 ---
@@ -98,7 +98,7 @@ I work across the entire stack: from crafting intuitive React interfaces to arch
 
 `React` `Vite` `Node.js` `Express` `MongoDB` `JavaScript`
 
-🔗 [Frontend](https://github.com/vkESCai/frontend_resume_at_ease) · [Backend](https://github.com/vkESCai/Backend_resume_at_ease)
+🔗 [Live Demo](https://frontend-resume-at-ease.onrender.com) · [Backend](https://github.com/vkESCai/Backend_resume_at_ease)
 
 ---
 
