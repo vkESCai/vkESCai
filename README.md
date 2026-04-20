@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-Hey! I'm **Vikash Kumar**, a full-stack developer who builds **production-grade web applications** — not toy projects.
+Hey! I'm **Vikash Kumar**, a full-stack developer who builds **production-grade web applications**.
 
 I work across the entire stack: from crafting intuitive React interfaces to architecting scalable Node.js APIs and integrating real-world services like payment gateways, OCR pipelines, and cloud storage. I enjoy solving problems that require thinking about systems holistically — auth flows, race conditions, async processing, and clean API design.
 
