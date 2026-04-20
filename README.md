@@ -77,7 +77,7 @@ I work across the entire stack: from crafting intuitive React interfaces to arch
 
 `React` `Vite` `TailwindCSS` `FastAPI` `Python` `pdfplumber` `Tesseract OCR` `Pillow`
 
-🔗 [Frontend Repo](https://github.com/vkESCai/docparser_frontend)
+🔗 🔗 [Live Demo](https://docparser-frontend.onrender.com/)  . [Frontend Repo](https://github.com/vkESCai/docparser_frontend)
 
 ---
 
